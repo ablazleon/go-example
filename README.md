@@ -12,3 +12,10 @@ Purebo con linux. Más que usar go get es descargarlo con clone y ejercutarlo, n
 
 - 2. CLonándolo el hello funciona pero el stirngotil se queja por main y el outyet no corre el puerto. Es sea juagad biena?
 
+- hwo to depurate it
+
+- hello works
+
+- string says soemthign does not work
+
+-  outyet : http://localhost:8080/, Is Go 1.4 out yet? YES!

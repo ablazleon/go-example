@@ -1,6 +1,6 @@
 # go-example
 
-Descargarse los ejemplos principales, compilarlos y entregar las trazas de su compilación y ejecución. Escribo pq llevo dos hroas y no consgo sacrlo.
+Descargarse los ejemplos principales, compilarlos y entregar las trazas de su compilación y ejecución. 
 
 ```
 C:\Users\ablaz\PycharmProjects\go>go get github.com/golang/example/hello

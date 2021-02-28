@@ -15,7 +15,7 @@ package hello is not in GOROOT (C:\Program Files\Go\src\hello)
 ```
 
 - 1. Descargarse: go get y el paquete, pero salta este error
-- 
+
 ```
                    module declares its path as: golang.org/x/example
                 but was required as: github.com/golang/example
